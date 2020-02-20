@@ -4,9 +4,7 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 
 Given linked list -- head = [4,5,1,9], which looks like following:
 
-
-
- 
+![image](https://github.com/eric82714/LeetCode_237--Delete-Node-in-a-Linked-List/blob/master/image/example.PNG) 
 
 # Example 1:
 
